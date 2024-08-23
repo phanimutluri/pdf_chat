@@ -1,0 +1,7 @@
+cohere
+langchain
+qdrant-client
+pypdf
+streamlit
+pandas
+langchain-community
